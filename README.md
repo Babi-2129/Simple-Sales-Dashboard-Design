@@ -1,5 +1,5 @@
 # Simple-Sales-Dashboard-Design
-# 📊 Power BI Sales Dashboard – Superstore Sales Analysis
+# 📊 Power BI Sales Dashboard 
 
 ## 📌 Project Overview
 
