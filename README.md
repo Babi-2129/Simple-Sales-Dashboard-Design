@@ -66,7 +66,7 @@ A screenshot of the final dashboard is included in the repo under `assets/` or b
 
 **Babi Pepakayala**  
 📧 babipepakayala162129@gmail.com  
-🔗 [GitHub](https://github.com/YourUsername)
+🔗 [GitHub](https://github.com/Babi-2129)
 
 
 ---
