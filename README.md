@@ -58,7 +58,7 @@ This project is a **Sales Dashboard** built in **Power BI** using the **Supersto
 
 A screenshot of the final dashboard is included in the repo under `assets/` or below:
 
-![Power BI Dashboard Screenshot](assets/final_dashboard.png)
+![Power BI Dashboard Screenshot]((https://github.com/Babi-2129/Simple-Sales-Dashboard-Design/blob/main/Dashboard%20screenshort.png)
 
 ---
 
